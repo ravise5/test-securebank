@@ -1,5 +1,5 @@
 mountpoints:
   /: 
-    url: https://author-p21002-e1571066.adobeaemcloud.com/bin/franklin.delivery/AdobeDome/securbank-aem-ue-shared/main
+    url: https://author-p21002-e1571066.adobeaemcloud.com/bin/franklin.delivery/ravise5/test-securebank/main
     type: markup
-    suffix: ".html?wcmmode=disabled"
+    suffix: ".html"
